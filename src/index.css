@@ -137,7 +137,9 @@ body{
  .heading{
   font-size: 20px;
  }
-
+ #summa{
+  display: none;
+ }
 
 
 
